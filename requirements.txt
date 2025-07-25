@@ -1,0 +1,6 @@
+Flask==2.3.2
+SQLAlchemy==2.0.21
+psycopg2-binary==2.9.6
+boto3==1.28.0        # (optional) AWS SDK if needed
+aws-wsgi==0.2.7      # (optional) to adapt Flask to Lambda
+serverless-wsgi
